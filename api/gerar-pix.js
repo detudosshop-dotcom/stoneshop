@@ -2,7 +2,7 @@ const https = require('https');
 
 const FLEVOPAY_API_KEY = 'flevopay_sk_4d2f2349cd060b2eb9d2346923037759f1c3b617645417359fc96c8a80ea2429';
 
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   if (req.method !== 'POST') {
     res.status(405).json({ error: 'Method Not Allowed' });
     return;
@@ -67,4 +67,4 @@ export default function handler(req, res) {
 
   flevopayReq.write(flevopayPayload);
   flevopayReq.end();
-}
+};
