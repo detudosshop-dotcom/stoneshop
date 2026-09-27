@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/telinha/pages/produto-104.html",
+      "permanent": false
+    }
+  ]
+}
