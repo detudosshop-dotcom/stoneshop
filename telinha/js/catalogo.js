@@ -1,9 +1,9 @@
 // Catálogo gerado automaticamente — usa apenas imagens estáticas (não vídeo)
 const CATALOGO_PRODUTOS = [
-  {id:105,nome:'Tablet AX7 Pro 10,1 Polegadas Android 15 16GB + 1TB Expansível 8000mAh Tela HD Câmera Dupla com Teclado',preco:97.9,precoOrig:'599,90',desc:84,vendidos:31200,img:'../tablet/assets/tablet-1.png'},
+
   {id:104,nome:'Fritadeira Air Fryer Forno Oven 12 Litros Mondial AFON-12L-BI Preto/Inox 2000W com 10 Funções, 3 Assadeiras Antiaderentes e Timer de 90 Minutos',preco:89.9,precoOrig:'599,00',desc:85,vendidos:12400,img:'../airfryer/assets/airfryer-bi-1.jpg'},
-  {id:103,nome:'Mondial Frigobar 73 Litros FGB-01-B80 Porta Reversível Preto com 7 Níveis de Temperatura e Prateleira de Vidro Temperado',preco:124.9,precoOrig:'1.399,00',desc:91,vendidos:128400,img:'../frigobar/frigobar-1.webp'},
-  {id:102,nome:'Scooter Elétrica TUI 1000w | 2 Lugares | Sem CNH | Autonomia 60km',preco:129.9,precoOrig:'2344,00',desc:94,vendidos:8944,img:'../imagemscooterpreta/D_NQ_NP_2X_712059-MLA99509048862_112025-F.webp'},
+
+
   {id:101,nome:'Pneus Pirelli — Todas as Medidas | Cinturato, P ZERO, Scorpion e mais',preco:137.9,precoOrig:'499,90',desc:72,vendidos:13488,img:'https://tyre24.pirelli.com/dynamic_engine/assets/visori/cake/p7cnt.png'},
   {id:100,nome:'Apple iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max — Todos os Modelos & Cores | 128GB/256GB/512GB/1TB',preco:108.9,precoOrig:'3.800,00',desc:97,vendidos:10000,img:'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-black-select-202309?wid=400&hei=400&fmt=jpeg'},
   {id:5,nome:'Fritadeira Elétrica Visio Fry Elgin 5L 1700w Air Fryer Digital Cinza',preco:124.99,precoOrig:'500,00',desc:75,vendidos:2000,img:'https://down-br.img.susercontent.com/file/br-11134207-81z1k-mh9e1c37asxxe2'},

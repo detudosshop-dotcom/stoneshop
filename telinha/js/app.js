@@ -1643,7 +1643,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <!-- Cabeçalho Flex da Loja -->
           <div class="store-widget-header" style="display:flex; align-items:center; gap:12px; margin-bottom:14px; width:100%; box-sizing:border-box;">
             <div class="store-widget-logo-wrapper" style="position:relative; width:50px; height:50px; border-radius:50%; border:1px solid #eee; overflow:hidden; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#f8f8f8;">
-              <img class="store-widget-logo" src="../logo.png" onerror="this.src='https://via.placeholder.com/50'" alt="Stone Shop" style="width:100%; height:100%; object-fit:cover;">
+              <img class="store-widget-logo" src="../img/stone-shop-logo.jpg" onerror="this.src='https://via.placeholder.com/50'" alt="Stone Shop" style="width:100%; height:100%; object-fit:cover;">
             </div>
             <div class="store-widget-info" style="flex:1; min-width:0; display:flex; flex-direction:column; justify-content:center; ${window.location.pathname.includes('produto-101') ? 'padding-top:2px;' : ''}">
               <div class="store-widget-name" style="font-size:15px; font-weight:700; color:#111; margin-bottom:${window.location.pathname.includes('produto-101') ? '2px' : '2px'}; display:flex; align-items:center; gap:4px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
